@@ -24,6 +24,3 @@ target
 
 # git
 *.orig
-
-# frontend
-/ehrms-web-internal/src/main/resources/templates
